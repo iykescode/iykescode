@@ -9,6 +9,13 @@ I'm a passionate software developer with a love for coding and creating meaningf
 - **Databases:** MongoDB, MySQL, PostgreSQL, MSSQL
 - **Tools:** Git, VS Code, Docker, Kubernetes, Jenkins, JIRA
 
+## 🌐 Connect with Me
+
+- [LinkedIn]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/ikechukwu-michael-chuks-764975213/))
+- [Twitter]([https://twitter.com/your-username](https://twitter.com/michael_chukss))
+- [Stackoverflow]([https://twitter.com/your-username](https://stackoverflow.com/users/11007977/michael-chuks))
+- [Portfolio](https://www.iykescode.com)
+
 ## 📈 GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iykescode&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

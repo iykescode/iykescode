@@ -16,9 +16,12 @@ I'm a passionate software developer with a love for coding and creating meaningf
 - Stackoverflow - [michael-chuks](https://stackoverflow.com/users/11007977/michael-chuks)
 - Portfolio - [Iykescode](https://www.iykescode.com)
 
+<!-- 
 ## 📈 GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iykescode&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 ## 💬 Favorite Quote
 

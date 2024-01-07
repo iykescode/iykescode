@@ -11,10 +11,10 @@ I'm a passionate software developer with a love for coding and creating meaningf
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ikechukwu-michael-chuks-764975213/)
-- [Twitter](https://twitter.com/michael_chukss)
-- [Stackoverflow](https://stackoverflow.com/users/11007977/michael-chuks)
-- [Portfolio](https://www.iykescode.com)
+- LinkedIn - [Ikechukwu Michael Chuks](https://www.linkedin.com/in/ikechukwu-michael-chuks-764975213/)
+- Twitter - [michael_chukss](https://twitter.com/michael_chukss)
+- Stackoverflow - [michael-chuks](https://stackoverflow.com/users/11007977/michael-chuks)
+- Portfolio - [Iykescode](https://www.iykescode.com)
 
 ## 📈 GitHub Stats
 

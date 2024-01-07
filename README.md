@@ -24,8 +24,10 @@ I'm a passionate software developer with a love for coding and creating meaningf
 -->
 
 ## 😅 Quick Joke
-> Nobody: What is the biggest lie you've heard as a programmer?
-> Me: It should work now.
+
+Nobody: What is the biggest lie you've heard as a programmer?
+
+Me: It should work now.
 
 ## 💬 Favorite Quote
 

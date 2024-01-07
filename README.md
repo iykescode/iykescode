@@ -11,7 +11,7 @@ I'm a passionate software developer with a love for coding and creating meaningf
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)](https://github.com/iykescode/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iykescode&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **iykescode/iykescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

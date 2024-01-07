@@ -12,6 +12,12 @@ I'm a passionate software developer with a love for coding and creating meaningf
 ## 📈 GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iykescode&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 💬 Favorite Quote
+
+> "There is always one more bug to fix. – Ellen Ullman"
+
+Feel free to explore my repositories and reach out if you have any questions or just want to connect! 😊
 <!--
 **iykescode/iykescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

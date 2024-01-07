@@ -1,3 +1,5 @@
+[![MasterHead](your image link)](your GitHub link)
+
 ### Hi there, I'm Ikechukwu Michael Chuks 👋
 
 I'm a passionate software developer with a love for coding and creating meaningful projects. Currently diving deep into Java Development.

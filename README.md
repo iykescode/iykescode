@@ -8,6 +8,10 @@ I'm a passionate software developer with a love for coding and creating meaningf
 - **Web Technologies and Frameworks:** HTML, CSS, React.js, Bootstrap, Springboot, JQuery
 - **Databases:** MongoDB, MySQL, PostgreSQL, MSSQL
 - **Tools:** Git, VS Code, Docker, Kubernetes, Jenkins, JIRA
+
+## 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)](https://github.com/iykescode/github-readme-stats)
 <!--
 **iykescode/iykescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
